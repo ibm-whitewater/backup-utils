@@ -1,5 +1,5 @@
 ---
-  name: Auto Close Pull Requests
+  name: Auto Close Pull Requests because reasons
   
   on:
     schedule:
